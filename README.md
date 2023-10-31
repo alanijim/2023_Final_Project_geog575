@@ -3,3 +3,6 @@ group collaboration for final project
 Alani Jimmy
 
 #### Final Proposal
+data sources
+wireframes
+requirement document
